@@ -1,0 +1,46 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Sc                  MLKNFKLSKRDSNGSKGRITSADISTPSHDNGSVIKHIKTVPVRYLSSSSTPVKSQRDSS	60
+XP_029763853.1      -----------------------------------------MVKFRRSS-GRASSHNHSL	18
+                                                              *::  **   ..*:..* 
+
+Sc                  PKNRHNSKDITSPEKVIKAKYSYQAQT----SKELSFMEGEFFYVSGD--EKDWYKASNP	114
+XP_029763853.1      SIPEKDPTAIVPPKKVIKALYDWDAPNDNPNVRFLSFASGDFLHVTGREDDTEWYEACNP	78
+                       .:: . *. *:***** *.::* .     : *** .*:*::*:*   :.:**:*.**
+
+Sc                  STGKEGVVPKTYFEVFDRTKPSSVNGSNSSS------------------RKVTNDSLNMG	156
+XP_029763853.1      LHNSRGLVPVSYFEQVGKTVRESASVTSSPSTHHDSGYADKSSHDPSRMSKSSMGRSGGA	138
+                      ...*:** :*** ..:*  .*.. :.* *                   * : .  . .
+
+Sc                  SLYAIVLYDFKAEKADELTTYVGENLFICAHHNCEWFIAKPIGRLGGPGLVPVGFVSIID	216
+XP_029763853.1      PVYGIVAYDFKAERPDELEAHEGEAIIVIAQSNPEWFVAKPITRLGGPGLIPVSFVEIKD	198
+                     :*.** ******: *** :: ** ::: *: * ***:**** *******:**.**.* *
+
+Sc                  IATGYATGNDVIEDIKSVNLPTVQEWKSNIARYKASNISLGSVEQQQQQSI---TKPQNK	273
+XP_029763853.1      LTSGQTI--DSAEAIARAGIPRVEEWKKMAADYKNTSIPLGQIGNMQAASQQSMAGLQSG	256
+                    :::* :   *  * *  ..:* *:***.  * ** :.* **.: : *  *    :  *. 
+
+Sc                  S------------------------AKLVDGELLVKASVESFGLEDEKYWFLVCCELSNG	309
+XP_029763853.1      MDRMSLNNGGHSRNMSTVSRRTTSQAHSQYPLAPLRASVPRYMYLDEKFHFIVEATLADG	316
+                                             *:       ::***  :   ***: *:* . *::*
+
+Sc                  KTRQLKRYYQDFYDLQVQLLDAFPAEAGKLRDAGGQWSKRIMPYIPGPVPYVTNSITKKR	369
+XP_029763853.1      SHWDLTRIYEDFYELQINLIKAFPDEAGNT------GAPRTLPLMPGPVQFVTDRITEGR	370
+                    .  :*.* *:***:**::*:.*** ***:        : * :* :**** :**: **: *
+
+Sc                  KEDLNIYVADLVNLPDYISRSEMVHSLFVVLNNGFDREFERDENQNNIKTLQENDTATFA	429
+XP_029763853.1      RENLDEYLYKLLRLGSHVVNSTLVRGFFTPHAGDYEIDPNVVDLNEHSRSAAETKTDRYS	430
+                    :*:*: *: .*:.* .:: .* :*:.:*.   ..:: : :  : ::: ::  *..*  ::
+
+Sc                  TASQTSNF-AS-TNQDNT-LTGEDLKLNKKLSDLSLSGSKQAP-AQSTS-------GLKT	478
+XP_029763853.1      TASHASGHYAASTNSARQSTSAQSFAAHQRQQSSVGAGSMRAPPAMSTATTSSAATSGGA	490
+                    ***::*.. *: **. .   :.:.:  ::: ..   :** :** * **:       .  :
+
+Sc                  TKIKFYYKDDIFA---LMLKGDTTYKELRSKIAPR-----------IDTDNFKLQTKLF-	523
+XP_029763853.1      LKVKVWFDRETCVVLRLPPRGAFNFDDLYRKILERRRLEYGDADPRSDETELDIEVRNER	550
+                     *:*.::. :  .   *  :*  .:.:*  **  *            *  ::.::.:   
+
+Sc                  DGSGEEIKTDSQVSNIIQAKLK--IS---VHDI*	551
+XP_029763853.1      TGDYTPLINDDTLEDAIQQNDKMMLVVQSAHGS*	583
+                     *.   : .*. :.: ** : *  :    .*. *

@@ -1,0 +1,14 @@
+NP_013330.1	2	104	GEF (guanine nucleotide exchange factor) interaction site [polypeptide binding]	0	.
+NP_013330.1	3	177	active	0	.
+NP_013330.1	9	17	G1 box	0	.
+NP_013330.1	12	160	GTP/Mg2+ binding site [chemical binding]	0	.
+NP_013330.1	19	177	active	0	.
+NP_013330.1	22	166	active	0	.
+NP_013330.1	24	40	Switch I region	0	.
+NP_013330.1	31	70	GAP (GTPase-activating protein) interaction site [polypeptide binding]	0	.
+NP_013330.1	34	106	GDI (guanine nucleotide dissociation inhibitor) interaction site [polypeptide binding]	0	.
+NP_013330.1	34	35	G2 box	0	.
+NP_013330.1	56	60	G3 box	0	.
+NP_013330.1	58	77	Switch II region	0	.
+NP_013330.1	114	118	G4 box	0	.
+NP_013330.1	157	160	G5 box	0	.

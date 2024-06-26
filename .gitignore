@@ -4,4 +4,4 @@ proj/FCS/data/*
 *.tif
 
 #Ignore venv 
-*/venv/*
+proj/FCS/venv/*

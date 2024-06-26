@@ -1,0 +1,7 @@
+#Ignore large files and images
+proj/FCS/data/*
+*.czi
+*.tif
+
+#Ignore venv 
+*/venv/*

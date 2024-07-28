@@ -9,11 +9,12 @@ using Sundials
 using Random
 using JLD2
 
-function setup(r)
+function setup(r, seed)
+    Random.seed!(seed)
     # Generate constants
     N = 100
-    SA = 4*pi*r 
-    V = (4/3)*pi*r^2
+    SA = 4*pi*r^2
+    V = (4/3)*pi*r^3
     mem_thickness = 0.01
     n = (mem_thickness * SA) / V
 
@@ -26,7 +27,8 @@ function setup(r)
 
     r0 = zeros(100,100,2)
     r0[:,:,1] .= 10 .*(rand.())   # Cdc42-GTPm
-    r0[:,:,2] .= .2 - mean(r0[:,:,1])*n   # Cdc42-GDPm
+    r0[:,:,2] .= .2 - mean(r0[:,:,1])*n   # Cdc42-GDPm 
+    # THIS VALUE SHIFTS RELATIONSHIP BETWEEN NUMBER OF SITES AND RADIUS
     
     # Dummy parameters used only locally in fxn but passed to specify scope, or something..
     Ayt = zeros(N,N)
@@ -65,23 +67,19 @@ function simple!(dr,r,p,t)
     @. dr[:,:,2] = -R*n + D42d
 end
 
-function run(radius)
-    p, r0 = setup(radius)
+function run(radius, seed)
+    p, r0 = setup(radius, seed)
     min_prob = ODEProblem(simple!,r0,(0.0,1800),p)
     sol_simp = solve(min_prob,CVODE_BDF(linear_solver = :GMRES), saveat=(599,600))
     @save "sims/simple_30min_seed_$(seed)_radius_$(radius).jld2" sol_simp
 end
 
-seed = 5
-Random.seed!(seed)
-
-print("running...")
-run(10)
-run(8)
-run(7)
-run(6)
-run(5)
-run(4)
-run(3)
-run(2)
-print("complete!")
+for arg in ARGS
+    seed = parse(Int,arg)
+    println("running seed $seed...")
+    for r in (2,3,4,5,6,7,8,10)
+        run(r, seed)
+        println("radius $(r) complete")
+    end
+    println("seed $seed complete!")
+end

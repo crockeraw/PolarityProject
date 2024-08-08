@@ -5,6 +5,6 @@ proj/FCS/data/*
 
 #Ignore venv 
 proj/FCS/venv/*
-proj/Simulations/notebooks/sims/*
+proj/Simulations/sims/*
 proj/Simulations/notebooks/*.png
 proj/PatchNumber/lowDen_Movies/*

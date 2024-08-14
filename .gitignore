@@ -2,9 +2,12 @@
 proj/FCS/data/*
 *.czi
 *.tif
+*.png
+*.gif
 
 #Ignore venv 
 proj/FCS/venv/*
 proj/Simulations/sims/*
 proj/Simulations/notebooks/*.png
 proj/PatchNumber/lowDen_Movies/*
+proj/PatchDynamics/movies/*

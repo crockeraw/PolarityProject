@@ -69,7 +69,7 @@ end
 
 function run(radius, seed)
     p, r0 = setup(radius, seed)
-    min_prob = ODEProblem(simple!,r0,(0.0,1800),p)
+    min_prob = ODEProblem(simple!,r0,(0.0,600),p)
     sol_simp = solve(min_prob,CVODE_BDF(linear_solver = :GMRES), saveat=(599,600))
     @save "sims/simple_30min_seed_$(seed)_radius_$(radius).jld2" sol_simp
 end

@@ -5,6 +5,8 @@ proj/FCS/data/*
 *.png
 *.gif
 *.nd2
+*.fcs
+*.csv
 
 #Ignore venv 
 proj/FCS/venv/*

@@ -7,6 +7,7 @@ proj/FCS/data/*
 *.nd2
 *.fcs
 *.csv
+*.npy
 
 #Ignore venv 
 proj/FCS/venv/*
@@ -15,4 +16,3 @@ proj/Simulations/notebooks/*.png
 proj/fig3-patchNumber/lowDen_Movies/*
 proj/fig4-patchDynamics/movies*
 proj/fig6-deletions/movies*
-.

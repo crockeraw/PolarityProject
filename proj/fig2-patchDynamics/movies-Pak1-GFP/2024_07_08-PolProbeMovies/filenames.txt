@@ -1,0 +1,5 @@
+current_filename	original_filename	
+ApSte20_movie1.nd2	ApSte20_movie1006.nd2
+ApSte20_movie2.nd2	ApSte20_movie1005.nd2
+ApSte20_movie3.nd2	ApSte20_10p_movie1001.nd2
+ApSte20_zstack_movie1.nd2	ApSte20_zstack_movie1004.nd2

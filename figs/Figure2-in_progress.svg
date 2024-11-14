@@ -1066,7 +1066,7 @@
      id="layer1">
     <g
        id="figure_1-6"
-       transform="matrix(0.35277778,0,0,0.35277778,0.16983246,39.167527)">
+       transform="matrix(0.35277778,0,0,0.35277778,0.16983246,42.342524)">
       <g
          id="patch_1-0">
         <path
@@ -1412,33 +1412,63 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        x="4.7699618"
-       y="7.9829211"
+       y="11.157925"
        id="text228"><tspan
          sodipodi:role="line"
          id="tspan228"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.265"
          x="4.7699618"
-         y="7.9829211">A</tspan></text>
+         y="11.157925">A</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="118.0219"
-       y="8.8333912"
+       x="116.48434"
+       y="9.3625612"
        id="text228-2"><tspan
          sodipodi:role="line"
          id="tspan266"
-         x="118.0219"
-         y="8.8333912">B</tspan></text>
+         x="116.48434"
+         y="9.3625612">B</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="117.2598"
-       y="40.727066"
+       x="116.34203"
+       y="41.256233"
        id="text228-2-9"><tspan
          sodipodi:role="line"
          id="tspan151356"
-         x="117.2598"
-         y="40.727066">C</tspan></text>
+         x="116.34203"
+         y="41.256233">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="3.5519872"
+       y="78.167137"
+       id="text228-2-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan268663"
+         x="3.5519872"
+         y="78.167137">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="4.5099373"
+       y="113.29678"
+       id="text228-2-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan268737"
+         x="4.5099373"
+         y="113.29678">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="116.71825"
+       y="73.058037"
+       id="text228-2-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan268700"
+         x="116.71825"
+         y="73.058037">E</tspan></text>
     <path
        style="fill:#000000;stroke-width:4.09677"
        id="path164908"
@@ -1465,7 +1495,7 @@
        d="" />
     <g
        id="figure_1-0"
-       transform="matrix(0.35277778,0,0,0.35277778,0.16983246,129.27075)">
+       transform="matrix(0.35277778,0,0,0.35277778,0.16983246,132.44572)">
       <g
          id="patch_1-70">
         <path
@@ -1815,9 +1845,39 @@
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="116.10088"
+       y="131.8271"
+       id="text228-2-9-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan268903"
+         x="116.10088"
+         y="131.8271">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="4.8363433"
+       y="166.84489"
+       id="text228-2-9-6-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan268956"
+         x="4.8363433"
+         y="166.84489">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="118.55104"
+       y="163.1434"
+       id="text228-2-9-6-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan268993"
+         x="118.55104"
+         y="163.1434">I</tspan></text>
     <g
        id="figure_1-2"
-       transform="matrix(0.35277778,0,0,0.35277778,126.64065,74.620742)">
+       transform="matrix(0.35277778,0,0,0.35277778,128.22816,77.795739)">
       <g
          id="patch_1-1">
         <path
@@ -2241,9 +2301,9 @@
              id="text_10-4">
             <text
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle"
-               x="-4.84375"
-               y="36.360001"
-               transform="rotate(-90,-4.84375,36.36)"
+               x="-36.360001"
+               y="-12.963392"
+               transform="rotate(-90)"
                id="text167518">Number</text>
           </g>
         </g>
@@ -2279,7 +2339,7 @@
     </g>
     <g
        id="figure_1-34"
-       transform="matrix(0.35277778,0,0,0.35277778,58.453153,70.599858)">
+       transform="matrix(0.35277778,0,0,0.35277778,58.453153,73.774855)">
       <g
          id="patch_1-3">
         <path
@@ -2356,7 +2416,7 @@
     </g>
     <g
        id="figure_1-1"
-       transform="matrix(0.35277778,0,0,0.35277778,5.1131529,82.188608)">
+       transform="matrix(0.35277778,0,0,0.35277778,5.4370832,85.363604)">
       <g
          id="patch_1-4">
         <path
@@ -2433,7 +2493,7 @@
     </g>
     <g
        id="figure_1-75"
-       transform="matrix(0.35277778,0,0,0.35277778,58.453153,82.188608)">
+       transform="matrix(0.35277778,0,0,0.35277778,58.453153,85.363604)">
       <g
          id="patch_1-25">
         <path
@@ -2510,7 +2570,7 @@
     </g>
     <g
        id="figure_1-388"
-       transform="matrix(0.35277778,0,0,0.35277778,5.1131529,70.599858)">
+       transform="matrix(0.35277778,0,0,0.35277778,5.4370832,73.774855)">
       <g
          id="patch_1-46">
         <path
@@ -2587,7 +2647,7 @@
     </g>
     <g
        id="figure_1-06"
-       transform="matrix(0.35277778,0,0,0.35277778,5.1131529,93.777358)">
+       transform="matrix(0.35277778,0,0,0.35277778,5.4370832,96.952348)">
       <g
          id="patch_1-442">
         <path
@@ -2662,7 +2722,7 @@
     </g>
     <g
        id="figure_1-79"
-       transform="matrix(0.35277778,0,0,0.35277778,58.453153,93.777358)"
+       transform="matrix(0.35277778,0,0,0.35277778,58.453153,96.952348)"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          id="patch_1-95">
@@ -2738,7 +2798,7 @@
     </g>
     <g
        id="figure_1"
-       transform="matrix(0.35277778,0,0,0.35277778,126.64066,38.991139)">
+       transform="matrix(0.35277778,0,0,0.35277778,128.22816,42.166136)">
       <g
          id="patch_1">
         <path
@@ -3061,9 +3121,9 @@
              id="text_13">
             <text
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle"
-               x="-7.38625"
-               y="36.360001"
-               transform="rotate(-90,-7.38625,36.36)"
+               x="-36.360001"
+               y="-12.963421"
+               transform="rotate(-90)"
                id="text185388">Autocorrelation</text>
           </g>
         </g>
@@ -3107,7 +3167,7 @@
     </g>
     <g
        id="figure_1-4"
-       transform="matrix(0.35277778,0,0,0.35277778,126.13081,4.9369963)">
+       transform="matrix(0.35277778,0,0,0.35277778,128.22816,8.1119942)">
       <g
          id="patch_1-7">
         <path
@@ -3405,9 +3465,9 @@
              id="text_12-8">
             <text
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle"
-               x="0.24625"
-               y="36.360001"
-               transform="rotate(-90,0.24625,36.36)"
+               x="-36.360001"
+               y="-11.518177"
+               transform="rotate(-90)"
                id="text185629">Power / frequency</text>
           </g>
           <g
@@ -3459,7 +3519,7 @@
     </g>
     <g
        id="figure_1-48"
-       transform="matrix(0.35277778,0,0,0.35277778,126.6407,163.28569)">
+       transform="matrix(0.35277778,0,0,0.35277778,128.22816,166.98983)">
       <g
          id="patch_1-75">
         <path
@@ -3854,7 +3914,7 @@
     </g>
     <g
        id="figure_1-13"
-       transform="matrix(0.35277778,0,0,0.35277778,126.11153,129.39777)">
+       transform="matrix(0.35277778,0,0,0.35277778,128.22816,132.57274)">
       <g
          id="patch_1-76">
         <path
@@ -4256,65 +4316,65 @@
       </g>
     </g>
     <path
-       d="m 148.72781,134.35969 h 2.82222 2.82223"
+       d="m 150.31532,137.53466 h 2.82222 2.82223"
        style="fill:none;stroke:#1f77b4;stroke-width:0.705556;stroke-linecap:square;stroke-linejoin:round"
        id="path187112-8" />
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;stroke-width:0.352778;stroke-linecap:butt;stroke-linejoin:round"
-       x="156.63004"
-       y="135.34767"
+       x="158.26125"
+       y="138.52271"
        id="text187115-6">Patch 1</text>
     <path
-       d="m 148.72781,136.91467 h 2.82222 2.82223"
+       d="m 150.31532,140.08964 h 2.82222 2.82223"
        style="fill:none;stroke:#ff7f0e;stroke-width:0.705556;stroke-linecap:square;stroke-linejoin:round"
        id="path187118-0" />
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;stroke-width:0.352778;stroke-linecap:butt;stroke-linejoin:round"
-       x="156.63004"
-       y="137.90269"
+       x="158.28329"
+       y="141.07773"
        id="text187121-7">Patch 2</text>
     <path
-       d="m 84.875067,134.35969 h 2.822205 2.822212"
+       d="m 84.875067,137.53466 h 2.822205 2.822212"
        style="fill:none;stroke:#1f77b4;stroke-width:0.705556;stroke-linecap:square;stroke-linejoin:round"
        id="path187112-8-3" />
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;stroke-width:0.352778;stroke-linecap:butt;stroke-linejoin:round"
        x="92.777283"
-       y="135.34767"
+       y="138.52271"
        id="text187115-6-8">Patch 1</text>
     <path
-       d="m 84.875067,136.91467 h 2.822205 2.822212"
+       d="m 84.875067,140.08964 h 2.822205 2.822212"
        style="fill:none;stroke:#ff7f0e;stroke-width:0.705556;stroke-linecap:square;stroke-linejoin:round"
        id="path187118-0-0" />
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;stroke-width:0.352778;stroke-linecap:butt;stroke-linejoin:round"
        x="92.777283"
-       y="137.90269"
+       y="141.07773"
        id="text187121-7-0">Patch 2</text>
     <path
-       d="m 148.72781,139.46966 h 2.82222 2.82223"
+       d="m 150.31532,142.64463 h 2.82222 2.82223"
        style="fill:none;stroke:#2ca02c;stroke-width:0.705556;stroke-linecap:square;stroke-linejoin:round"
        id="path187124-0" />
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;stroke-width:0.352778;stroke-linecap:butt;stroke-linejoin:round"
-       x="156.63004"
-       y="140.4577"
+       x="158.16197"
+       y="143.63274"
        id="text187127-8">Cross corr.</text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle;stroke-width:0.352778;stroke-linecap:butt;stroke-linejoin:round"
-       x="-141.75359"
-       y="121.92832"
+       x="-144.92862"
+       y="122.06745"
        transform="rotate(-90)"
        id="text187084-2">Correlation</text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle;stroke-width:0.352778;stroke-linecap:butt;stroke-linejoin:round"
-       x="-176.96643"
+       x="-180.67062"
        y="122.06745"
        transform="rotate(-90)"
        id="text188033">Cross-correlation</text>
     <g
        id="figure_1-7"
-       transform="matrix(0.35277778,0,0,0.35277778,6.4954166,184.0458)">
+       transform="matrix(0.35277778,0,0,0.35277778,5.4370832,187.22077)">
       <g
          id="patch_1-2">
         <path
@@ -4397,7 +4457,7 @@
     </g>
     <g
        id="figure_1-3"
-       transform="matrix(0.35277778,0,0,0.35277778,59.835417,160.8683)">
+       transform="matrix(0.35277778,0,0,0.35277778,58.453153,164.04327)">
       <g
          id="patch_1-15">
         <path
@@ -4480,7 +4540,7 @@
     </g>
     <g
        id="figure_1-29"
-       transform="matrix(0.35277778,0,0,0.35277778,6.4954166,172.45705)">
+       transform="matrix(0.35277778,0,0,0.35277778,5.4370832,175.63202)">
       <g
          id="patch_1-6">
         <path
@@ -4563,7 +4623,7 @@
     </g>
     <g
        id="figure_1-19"
-       transform="matrix(0.35277778,0,0,0.35277778,59.835417,184.0458)">
+       transform="matrix(0.35277778,0,0,0.35277778,58.453153,187.22077)">
       <g
          id="patch_1-754">
         <path
@@ -4646,7 +4706,7 @@
     </g>
     <g
        id="figure_1-25"
-       transform="matrix(0.35277778,0,0,0.35277778,6.4954166,160.8683)">
+       transform="matrix(0.35277778,0,0,0.35277778,5.4370832,164.04327)">
       <g
          id="patch_1-251">
         <path
@@ -4729,7 +4789,7 @@
     </g>
     <g
        id="figure_1-9"
-       transform="matrix(0.35277778,0,0,0.35277778,59.835417,172.45705)">
+       transform="matrix(0.35277778,0,0,0.35277778,58.453153,175.63202)">
       <g
          id="patch_1-9">
         <path
@@ -4812,5 +4872,16 @@
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="20.210466"
+       y="10.378142"
+       id="text276175"><tspan
+         sodipodi:role="line"
+         id="tspan276173"
+         style="stroke-width:0.264583"
+         x="20.210466"
+         y="10.378142">Competition ex.</tspan></text>
   </g>
 </svg>

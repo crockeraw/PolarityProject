@@ -1,0 +1,2081 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7in"
+   height="9in"
+   viewBox="0 0 177.8 228.60001"
+   version="1.1"
+   id="svg163479"
+   sodipodi:docname="Figure7-in_progress.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview163481"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="0.75187991"
+     inkscape:cx="446.87987"
+     inkscape:cy="422.27488"
+     inkscape:window-width="1830"
+     inkscape:window-height="1016"
+     inkscape:window-x="90"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs163476">
+    <style
+       type="text/css"
+       id="style163542">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="md07b8431fa"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="ma2034ca62a"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p0e8af90281">
+      <rect
+         x="54"
+         y="8.64"
+         width="334.8"
+         height="55.44"
+         id="rect163673" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style163777">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m87954d887e"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m20a93cb012"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="pe282ffc200">
+      <rect
+         x="45"
+         y="8.64"
+         width="279"
+         height="55.44"
+         id="rect163908" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style164092">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="mf8b7d23506"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="mf8d609b67b"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p585176fab5">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect164226" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style167110">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="mbbe40000ed"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="mb7e8961106"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p0659062fee">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect167250" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style167360">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="mbda5d111d9"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="ma907c824cf"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p1c0dd05982">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect167536" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style167970">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pfd68a72398">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect168006" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style168045">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pb16f6b7812">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect168080" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style168278">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p908ba206ca">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect168314" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style168353">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p0ca3df2e3c">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect168388" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style168426">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pfc1f0d6f3c">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect168461" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style168499">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p0472213c61">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect168535" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style168574">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p995b76b63f">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect168610" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style169216">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p9ba7799710">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect169252" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style169291">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pcb8e0c3879">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect169327" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style169366">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p7b7a6d9aa2">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect169401" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style169439">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pc961bc05f0">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect169474" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style169512">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pbcb814290e">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect169548" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style169587">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p34bc2abe3c">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect169622" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style169660">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p0f5627e32e">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect169696" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style169735">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p60bf26bb5b">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect169770" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style169808">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p2751f9b509">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect169843" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style169881">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p929f65f511">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect169917" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style169956">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pe31ec3f193">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect169991" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style170029">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p9aac54fdcd">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect170065" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style170104">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p8b40415a3e">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect170139" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style170177">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pb872cc1063">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect170212" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style170250">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p61ab2ee13c">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect170285" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style170323">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p599b4294be">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect170358" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style170396">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p23bf99dee8">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect170431" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style170469">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p64fd1839ea">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect170504" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style170542">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pb8b12308a5">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect170577" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style170615">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p36d43728ae">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect170650" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style170688">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p29a7436520">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect170724" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style170763">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p087aa642cd">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect170799" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style170838">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p0cd10e7aa2">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect170873" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style170911">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pf1e63a5870">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect170947" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style170986">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p3c8457fbdf">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect171021" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style171059">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p4de8dac86e">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect171094" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style171132">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pb0f52634ca">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect171168" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style171207">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pfc70d8f529">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect171242" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style171280">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p4c1a06c0a9">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect171316" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style171355">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p3c887fd382">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect171391" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style171430">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p1db12988d1">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect171465" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style171503">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pd67baa7db9">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect171539" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style171578">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="paadbf73dfb">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect171613" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style171651">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p13b983bbd5">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect171686" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style171724">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p735e841891">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect171759" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style171797">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p5250decf6b">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect171833" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style171872">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pd800c99cbc">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect171907" />
+    </clipPath>
+    <clipPath
+       id="p29a7436520-5">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect178526" />
+    </clipPath>
+    <clipPath
+       id="pd67baa7db9-3">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect179341" />
+    </clipPath>
+    <clipPath
+       id="p9ba7799710-3">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect177054" />
+    </clipPath>
+    <clipPath
+       id="p7b7a6d9aa2-5">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect177203" />
+    </clipPath>
+    <clipPath
+       id="p3c887fd382-9">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect179193" />
+    </clipPath>
+    <clipPath
+       id="pb872cc1063-2">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect178014" />
+    </clipPath>
+    <clipPath
+       id="p735e841891-3">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect179561" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style185269">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m9affbc352c"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="mf0d4af7f17"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="pc0296bc55f">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect185409" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style185519">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m78640aada5"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m23d184628a"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p7e29c9ba5f">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect185653" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style185759">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m54e05cf8e3"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m6796c4e9fc"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p18014b5760">
+      <rect
+         x="45"
+         y="8.64"
+         width="279"
+         height="55.44"
+         id="rect185893" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style185999">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="mab0a7326e2"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m14b854d146"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="pd36689a55a">
+      <rect
+         x="45"
+         y="8.64"
+         width="279"
+         height="55.44"
+         id="rect186133" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style186331">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m91a55b811d"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="mc156cb52f4"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="pa247509378">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect186483" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style186681">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m1e471f3a4b"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m47bb127df3"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p9e058f852d">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect186836" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style186956">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="mc4663faad5"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="mc8ba5565d9"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p009884bda2">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect187133" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style188439">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pfdca9372ef">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect188477" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style188517">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p67d054706f">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect188555" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style188595">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p0c37081460">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect188633" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style188673">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p0d4359859f">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect188711" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style188751">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p3ea0d19962">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect188789" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style188829">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p69c0138e6d">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect188867" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style188907">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p7701749c4b">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect188946" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style189383">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p6fd4f1db1e">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect189421" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style189461">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p029111b954">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect189499" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style189539">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pe73e972f66">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect189577" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style189617">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p08edd37a92">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect189655" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style189695">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pbde691d025">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect189733" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style189773">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p7079fe437e">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect189811" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style189851">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pcbe137504a">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect189890" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style191342">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p23d2527a2b">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect191380" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style191500">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p09d8d4dd84">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect191538" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style84806">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="mdd3fa5db81"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="mb85dcd72a2"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="pae1e45c680">
+      <rect
+         x="45"
+         y="8.64"
+         width="279"
+         height="55.44"
+         id="rect84937" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style85041">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="mbc53b739c0"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m22d8c251d1"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p3a1a03a28c">
+      <rect
+         x="45"
+         y="8.64"
+         width="279"
+         height="55.44"
+         id="rect85172" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style85676">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m0ce7f74733"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m90c79e47dc"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="pf597ce5cac">
+      <rect
+         x="45"
+         y="8.64"
+         width="279"
+         height="55.44"
+         id="rect85807" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style99837">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m44b17642c2"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="med509e224b"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="pdbd5256792">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect99968" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style102211">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m834a88bf1c"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m40e99a8c2f"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="pc75bd3470d">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect102396" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style102856">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m1fe4fd3da0"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m20cbe00608"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p5ff58fbe47">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect102990" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style103096">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m61163acb10"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m7134272227"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p67d513e01b">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect103239" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style103431">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pa3fbed8632">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect103467" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style107852">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="mcc812f30af"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m29e8d1e8bb"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p545d543935">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect108037" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style108657">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m490e1993f1"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m515e1c46a2"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p94b2194c90">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect108800" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style108912">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m08600d6cd7"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m89ee826c9a"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p778cc9f479">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect109052" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style111231">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p66d1e72394">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect111266" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style111304">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p51f96036b4">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect111339" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style111377">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pfd6f7a50a8">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect111412" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style111450">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pfe9cc7045a">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect111485" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style111523">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p74d7c5ec41">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect111558" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style111596">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pbb7649f72d">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect111632" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style111671">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p80a987f282">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect111707" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style111746">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p31c9b76c2f">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect111781" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style111819">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p2be4a8bbad">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect111855" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style111894">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p43069b5b34">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect111930" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style111969">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pdeb46115b5">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect112004" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style112042">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pcafcbc9598">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect112077" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style112115">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p4a19d55f5b">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect112151" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style112190">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p805a42dddb">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect112226" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style112265">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p51fbff2c69">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect112300" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style112338">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pf78b0d808e">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect112373" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style112411">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pcabe3ac3c2">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect112447" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style112486">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pb905e1f3cf">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect112522" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style112561">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p1fe6439030">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect112597" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style112636">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p0fca5f2023">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect112671" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style112709">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="padf6dfafe1">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect112744" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style112782">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pcec5dcfb07">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect112818" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style112857">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pc9b5595837">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect112892" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style112930">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p7791839b1a">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect112965" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style113003">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="peddb853a5e">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect113038" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style113076">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pd9bf802b0a">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect113111" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style113229">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pb0576f811a">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect113264" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style113302">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p1ae49ad152">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect113338" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style113377">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p05537b61bb">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect113412" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style113450">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pbad28d27cc">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect113485" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style113523">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p8e47284f13">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect113558" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style113596">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p5d970bd0c9">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect113631" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style113669">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p8a8cb26a15">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect113704" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style113742">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pf8ea8509e3">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect113777" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style113815">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p9b7892c0ba">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect113850" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style113888">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p1c35a19ada">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect113923" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style113961">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pa3fbed8632-6">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect113997" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style114036">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pcd4173350b">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect114071" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style114109">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p95553873e2">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect114144" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style114182">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p6c8c505f10">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect114218" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style114257">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p14c5b63d29">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect114293" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style114332">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pa3b9e7440c">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect114367" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style114405">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p3f0af2479b">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect114440" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style114478">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pee50320b6a">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect114513" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style114551">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p3b337a05f7">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect114586" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style114624">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="pfac8742843">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect114659" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style114697">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p186341f3d7">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect114733" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style114772">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p87197f4c29">
+      <rect
+         x="22.5"
+         y="4.32"
+         width="139.5"
+         height="27.72"
+         id="rect114807" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style118031">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="ma79f8719b3"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m688413993e"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="pb3f8976a54">
+      <rect
+         x="45"
+         y="8.64"
+         width="279"
+         height="55.44"
+         id="rect118174" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style118366">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m231ee8f3af"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="m14a3d94651"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="p90b0c7f7d6">
+      <rect
+         x="45"
+         y="8.64"
+         width="279"
+         height="55.44"
+         id="rect118500" />
+    </clipPath>
+    <clipPath
+       id="p86a0baaecb">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect132975" />
+    </clipPath>
+    <clipPath
+       id="clipPath133338">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect133336" />
+    </clipPath>
+    <clipPath
+       id="pb80a191c9c">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect133054" />
+    </clipPath>
+    <clipPath
+       id="clipPath133344">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect133342" />
+    </clipPath>
+    <clipPath
+       id="pafc15eaf1e">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect133132" />
+    </clipPath>
+    <clipPath
+       id="clipPath133350">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect133348" />
+    </clipPath>
+    <clipPath
+       id="p6811957fbf">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect132896" />
+    </clipPath>
+    <clipPath
+       id="clipPath133356">
+      <rect
+         x="22.5"
+         y="4.3200002"
+         width="139.5"
+         height="27.719999"
+         id="rect133354" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style134069">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="mf4df64b6f2"
+       d="M 0 0  L 0 3.5  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="mfd480a0615"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <clipPath
+       id="pdd354f0684">
+      <rect
+         x="18"
+         y="8.64"
+         width="111.6"
+         height="55.44"
+         id="rect134194" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="117.52293"
+       y="14.030603"
+       id="text228-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan151356"
+         x="117.52293"
+         y="14.030603">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="4.7328911"
+       y="56.762356"
+       id="text228-2-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan268663"
+         x="4.7328911"
+         y="56.762356">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="5.6908412"
+       y="91.891739"
+       id="text228-2-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan268737"
+         x="5.6908412"
+         y="91.891739">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="117.89915"
+       y="51.653225"
+       id="text228-2-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan268700"
+         x="117.89915"
+         y="51.653225">E</tspan></text>
+    <path
+       style="fill:#000000;stroke-width:4.09677"
+       id="path164908"
+       d="" />
+    <path
+       style="fill:#000000;stroke-width:4.09677"
+       id="path164870"
+       d="" />
+    <path
+       style="fill:#000000;stroke-width:4.09677"
+       id="path165313"
+       d="" />
+    <path
+       style="fill:#000000;stroke-width:4.09677"
+       id="path165293"
+       d="" />
+    <path
+       style="fill:#000000;stroke-width:4.09677"
+       id="path166451"
+       d="" />
+    <path
+       style="fill:#000000;stroke-width:4.09677"
+       id="path166431"
+       d="" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="117.28178"
+       y="109.36372"
+       id="text228-2-9-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan268903"
+         x="117.28178"
+         y="109.36372">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="5.4880805"
+       y="144.38142"
+       id="text228-2-9-6-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan268956"
+         x="5.4880805"
+         y="144.38142">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="119.73194"
+       y="151.79239"
+       id="text228-2-9-6-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan268993"
+         x="119.73194"
+         y="151.79239">I</tspan></text>
+  </g>
+</svg>
